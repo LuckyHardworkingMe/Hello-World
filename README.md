@@ -1,2 +1,3 @@
 # Hello-World
-My first repository.
+
+Record my learning process and improvement here.
